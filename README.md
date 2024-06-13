@@ -1,2 +1,3 @@
 
-<h1>Hey! I'm Anthony, an up & coming <a href="https://www.linkedin.com/in/theantwest/"> Security Professional</a></h1>
+<h1>Hey! I'm Anthony, an inspiring <a href="https://www.linkedin.com/in/theantwest/"> Security Professional</a></h1>
+
