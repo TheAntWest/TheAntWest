@@ -3,7 +3,7 @@
 
 <h2>✍🏽 <I>About Me:</I></h2>
 
-<p>I'm a dedicated Richmond, Virginia native who's on a <i><b>journey</b></i> to becoming a security professional. My goal is to better myself daily by learning about current, or new and upcoming technology. Whether it's ranging in software development to utlizing software that scans for vulnerabilities in order to mitigate risk.</p>
+<p>I'm a dedicated Richmond, Virginia native who's on a <i><b>journey</b></i> to becoming a security professional. My goal is to better myself daily by learning about current, or new and upcoming technology. Whether it's ranging in software development to utlizing software that scans for vulnerabilities in order to mitigate risk and protect assets.</p>
 
 <hr><h2>📜<i> Certifications:</i></h2></hr>
 
